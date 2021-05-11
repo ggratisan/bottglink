@@ -1,8 +1,8 @@
 {
-    "name": "FileToLinkTeLeTiPs",
-    "description": "Bot to provide links of different types of files you send.",
-    "website": "https://FileToLinkTeLeTiPs/",
-    "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
+    "name": "FileKeLink",
+    "description": "Mudsh.",
+    "website": "https://t.me/deryluserbothelp",
+    "repository": "https://github.com/ggratisan/bottglink",
     "env": {
           "TG_BOT_TOKEN": {"description": "Token botmu dari botfather","required": true}
     },
