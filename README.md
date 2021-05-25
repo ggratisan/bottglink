@@ -1,3 +1,10 @@
+[![Issues](https://img.shields.io/github/issues/ggratisan/bottglink?style=for-the-badge&color=green)](https://github.com/ggratisan/bottglink/issues)
+[![Forks](https://img.shields.io/github/forks/ggratisan/bottglink?style=for-the-badge&color=green)](https://github.com/ggratisan/bottglink/fork)
+[![Stars](https://img.shields.io/github/stars/ggratisan/bottglink?style=for-the-badge&color=green)](https://github.com/ggratisan/bottglink)
+[![Size](https://img.shields.io/github/repo-size/ggratisan/bottglink?style=for-the-badge&color=green)](https://github.com/ggratisan/bottglink)
+[![Contributors](https://img.shields.io/github/contributors/ggratisan/bottglink?style=for-the-badge&color=green)](https://github.com/ggratisan/bottglink)
+
+
 # UPLOAD
 
 ## ⬆️DEPLOY KE SERVER HEROKU
